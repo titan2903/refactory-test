@@ -13,5 +13,4 @@ function reverseWords(str) {
 }
 
 console.log(reverseWords("I am A Great human"));
-
 //output: "I ma A taerG namuh"
